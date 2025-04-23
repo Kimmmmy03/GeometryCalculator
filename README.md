@@ -66,7 +66,5 @@ Enter your choice (1-8):
 
 UML Class Diagram for the code
 
-![Screenshot 2025-04-23 210622](https://github.com/user-attachments/assets/bbf1f5bc-5507-404d-a5d2-ffda61173210)
 
-How the code looks like when run
 
