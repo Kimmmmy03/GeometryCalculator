@@ -1,7 +1,7 @@
 # Geometry Calculator
 
 ## Original Authors  
-This project is created and maintained by **Akmal**, **Chan**, **Ammar**, and **Zikri**.
+This project is created and maintained by **Kimmmmy03**
 
 ---
 
