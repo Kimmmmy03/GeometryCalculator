@@ -1,11 +1,11 @@
-# 🧮 Geometry Calculator
+# Geometry Calculator
 
-## 👨‍💻 Original Authors  
+## Original Authors  
 This project is created and maintained by **Akmal**, **Chan**, **Ammar**, and **Zikri**.
 
 ---
 
-## 📘 Introduction  
+## Introduction  
 **Geometry Calculator** is a console-based Java application developed as part of the **ISB10103 - Principles of Computer Programming** course at **Universiti Kuala Lumpur (UniKL MIIT)** during the October 2023 session. The project was created under the guidance of:
 
 - **Course Leader**: Ts. Tiliza Awang Mat  
@@ -15,7 +15,7 @@ The goal of this project is to provide a user-friendly tool to calculate the are
 
 ---
 
-## ❗ Problem Statements & 🎯 Objectives
+## Problem Statements & Objectives
 
 ### Problem Statements
 - **Manual Complexity**: Calculating geometric properties manually can be time-consuming and prone to error.
@@ -23,14 +23,14 @@ The goal of this project is to provide a user-friendly tool to calculate the are
 - **Learning Engagement**: Students benefit from hands-on Java projects that apply real-world programming techniques.
 
 ### Objectives
-- ✅ Create a unified calculator for 2D areas and 3D volumes  
-- ✅ Apply OOP principles including classes, objects, methods, and constructors  
-- ✅ Utilize control structures (loops and conditionals) effectively  
-- ✅ Provide a menu-based, user-friendly console interface  
+- Create a unified calculator for 2D areas and 3D volumes  
+- Apply OOP principles including classes, objects, methods, and constructors  
+- Utilize control structures (loops and conditionals) effectively  
+- Provide a menu-based, user-friendly console interface  
 
 ---
 
-## 📋 Program Scope  
+## Program Scope  
 The Geometry Calculator allows users to:
 - **Calculate Areas** of:
   - Circle
@@ -46,7 +46,7 @@ Users can input multiple shapes in one session. The application is written in **
 
 ---
 
-## 🖼 Sample Output
+## Sample Output
 
 ```text
 Geometry Calculator
